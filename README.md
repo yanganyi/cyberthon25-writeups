@@ -28,7 +28,7 @@ pwn/treasure manifest (993)
 
 forensics/tap tap (912)
 
-osint/blog bounty (457)
+osint/blog bounty (457) ✅
 osint/[csit] treasure beneath the tides (485)
 
 misc/attendance flag (100)
