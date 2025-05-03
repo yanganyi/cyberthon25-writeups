@@ -13,8 +13,8 @@ how do i find what i want?
 
 this year, i solved the following challenges
 ```
-web/flagtastic fortune (614)
-web/ancient atlas archives (686)
+web/flagtastic fortune (614) ✅
+web/ancient atlas archives (686) ✅
 web/gpupicker (979) ✅
 
 ml/trip power (927)
