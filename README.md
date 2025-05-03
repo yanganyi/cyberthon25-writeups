@@ -20,7 +20,7 @@ web/gpupicker (979) ✅
 ml/trip power (927)
 
 crypto/multirsa (380) ✅
-crypto/hashbrown (462)
+crypto/hashbrown (462) ✅
 crypto/[csit] dead sea audio (987)
 crypto/cyberthon chronicles (989)
 
