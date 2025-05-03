@@ -18,4 +18,4 @@ the rest is trivial and we get the flag
 
 ## flag
 
-Cyberthon{M04R_AYY_E11_4ND_RGB_M34N5_B33G_FP5_1NCR3453}
+`Cyberthon{M04R_AYY_E11_4ND_RGB_M34N5_B33G_FP5_1NCR3453}`
